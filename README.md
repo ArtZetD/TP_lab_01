@@ -46,3 +46,5 @@ $ du -a
 
 11 - топ 10 самый тяжелых файлов 
 $ du -ahx . | sort -rh | head -10
+![image](https://user-images.githubusercontent.com/56314346/157695245-7f35e9b6-51b0-4fe6-a9c3-28a28f16ca50.png)
+
